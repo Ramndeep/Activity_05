@@ -1,0 +1,2 @@
+Welcome to the Sports Application Installer!
+Please follow the instructions to complete the installation.
